@@ -1,0 +1,45 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+li {
+  display: inline-block;
+  list-style: none;
+  margin-right: 20px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.main1 {
+  display: flex;
+  justify-content: space-between;
+}
+.div2 {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.head {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 10px;
+}
+.text {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+.but {
+  border-radius: 20px;
+  padding: 5px 50px;
+}
